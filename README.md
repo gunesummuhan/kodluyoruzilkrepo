@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodlulyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde bir adet README dosyasıi bir adet de index.html barındırıyor. 
-[[resim]: https://gyazo.com/782379f461b4a22fb68a99003c2f30d0"Resim Başlığı"]
+
+![img](https://user-images.githubusercontent.com/109460121/181093097-e6779ea8-151d-40dc-b686-9de284da1c0a.png)
 
 
 
